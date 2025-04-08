@@ -1,0 +1,28 @@
+# Entorno virtual de Python
+venv/
+.venv/
+env/
+.env/
+__pycache__/
+
+# Archivos de Python compilados
+*.pyc
+*.pyo
+
+# Archivos de distribución / empaquetamiento
+build/
+dist/
+*.egg-info/
+
+# Archivos temporales del sistema operativo
+.DS_Store  # Para macOS
+Thumbs.db  # Para Windows
+
+# Archivos de IDE (ejemplos comunes)
+.idea/       # PyCharm
+.vscode/     # Visual Studio Code
+
+# Otros archivos o directorios específicos de tu proyecto que quieras ignorar
+# ejemplo: archivos de datos grandes, logs, etc.
+mi_archivo_de_datos.csv
+logs/
