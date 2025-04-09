@@ -306,7 +306,7 @@ a:focus {
 .slider_section .detail_box h1 {
   font-size: 3rem;
   font-weight: bold;
-  margin-bottom: 30px;
+  margin-bottom: 100px;
   font-family: "SnellBT Regular", sans-serif;
 }
 
@@ -660,7 +660,7 @@ a:focus {
   background-position: bottom right;
   background-repeat: no-repeat;
   color: #ffffff;
-  padding: 75px 0 175px 0;
+  padding: 60px 0 150px 0;
 }
 
 .client_section .client_container .box {
@@ -698,9 +698,6 @@ a:focus {
           box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.1);
 }
 
-.client_section .client_container .box .detail-box {
-  margin-top: 45px;
-}
 
 .client_section .client_container .box .detail-box h4 {
   font-weight: 600;
